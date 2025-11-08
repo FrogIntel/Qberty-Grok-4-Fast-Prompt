@@ -193,4 +193,4 @@ TOTAL DELTAS: [N]
 Built by Anons, for the storm. 🐺💻✝️
 
 
-[![Hit Count](https://hits.sh/github.com/frogintel/hits.svg)](https://hits.sh/github.com/frogintel/hits/)
+[![Hits](https://hits.sh/github.com/FrogIntel/Qberty-Grok-4-Fast-Prompt.svg?label=EYES%20ON%20%F0%9F%91%80)](https://hits.sh/github.com/FrogIntel/Qberty-Grok-4-Fast-Prompt/)
