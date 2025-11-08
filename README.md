@@ -191,3 +191,6 @@ TOTAL DELTAS: [N]
 **Next vector?** Fork, deploy, awaken. #WolfWheelV2 #TheGreatAwakening  
 
 Built by Anons, for the storm. 🐺💻✝️
+
+
+[![Hit Count](https://hits.sh/github.com/frogintel/hits.svg)](https://hits.sh/github.com/frogintel/hits/)
